@@ -1,8 +1,37 @@
-# React + Vite
+# React Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Todo List application built using React and Material-UI. Users can add, edit, and delete tasks, making it easy to manage their daily activities.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Add Task:** Users can add new tasks to the list.
+- **Edit Task:** Tasks can be edited to modify their content.
+- **Delete Task:** Users can remove tasks when they are completed or no longer needed.
+
+## Technologies Used
+
+- **React:** Built with React to provide a dynamic user interface.
+- **Material-UI:** Styled using Material-UI components for a modern and responsive design.
+
+## Demo
+
+You can check out the live demo of the Todo List application [here](https://taeleeswe.github.io/React-TodoList).
+
+## Usage
+
+- **Add Task:** Click on the "+" button, enter your task, and press Enter to add it to the list.
+- **Edit Task:** Double-click on a task to edit its content.
+- **Delete Task:** Click on the trash bin icon to delete a task.
+
+## Contact
+
+For any inquiries or feedback, please contact:
+
+Tae Young Lee
+Email: taeleeswe@gmail.com
+GitHub: [[taeleeswe](https://github.com/taeleeswe)]
+
+## ScreenShot
+
+![React To-Do List](https://github.com/taeleeswe/React-TodoList/assets/123449246/a03cedf8-66f5-4278-a541-03f932815371)
+
