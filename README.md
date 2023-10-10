@@ -34,4 +34,4 @@ GitHub: [[taeleeswe](https://github.com/taeleeswe)]
 ## Screenshot
 
 
-![React ToDo List](https://github.com/taeleeswe/React-TodoList/assets/123449246/13a8e5fa-be37-4b53-b48c-fa369b81a1cb)
+![React ToDo List](https://github.com/taeleeswe/React-TodoList/assets/123449246/13a8e5fa-be37-4b53-b48c-fa369b81a1cb = 2060*3020)
