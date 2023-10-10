@@ -31,7 +31,7 @@ Tae Young Lee
 Email: taeleeswe@gmail.com
 GitHub: [[taeleeswe](https://github.com/taeleeswe)]
 
-## ScreenShot
+## Screenshot
 
-![React To-Do List](https://github.com/taeleeswe/React-TodoList/assets/123449246/a03cedf8-66f5-4278-a541-03f932815371)
+![React To-Do List](https://github.com/taeleeswe/React-TodoList/assets/123449246/2783ff65-c252-4c86-8aca-a12217e6a41b)
 
